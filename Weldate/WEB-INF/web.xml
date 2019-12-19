@@ -1,0 +1,17 @@
+<web-app>  
+  
+<servlet>  
+
+<servlet-name>admin</servlet-name>  
+<servlet-class>weldate</servlet-class>  
+
+</servlet>  
+  
+<servlet-mapping>  
+
+<servlet-name>admin</servlet-name>  
+<url-pattern>/date</url-pattern>  
+
+</servlet-mapping>  
+  
+</web-app> 

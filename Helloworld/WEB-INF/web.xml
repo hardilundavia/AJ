@@ -1,0 +1,17 @@
+<web-app>  
+  
+<servlet>  
+
+<servlet-name>admin</servlet-name>  
+<servlet-class>Helloworld</servlet-class>  
+
+</servlet>  
+  
+<servlet-mapping>  
+
+<servlet-name>admin</servlet-name>  
+<url-pattern>/welcome</url-pattern>  
+
+</servlet-mapping>  
+  
+</web-app> 
